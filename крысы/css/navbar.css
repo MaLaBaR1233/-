@@ -1,0 +1,43 @@
+
+.navbar{
+    background: #F0F8FF;
+    overflow: hidden;
+    padding: 5px 10px;
+    opacity: 0.9;
+    float: none;
+    width: 100%;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: bold;
+}
+ 
+.navbar ul{
+    list-style: none; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li{
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.navbar ul li:hover {
+    background: #BA55D3 ;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 5;
+}
+
+.navbar ul li a {
+    text-decoration: none; 
+    color: black;
+}

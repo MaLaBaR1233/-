@@ -1,0 +1,45 @@
+
+.ryhor {
+    font-family: Noto Sans;
+    font-size: 17px;
+    display: flex;
+    border-radius: 15px;
+}
+
+.ryhor  h3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.ryhor h4 {
+    font-size: 17px;
+    padding: 0;
+    margin: 0;
+}
+
+.ryhor p {
+    text-indent: 25px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.ryhor ul {
+    display: flex;
+    list-style: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.ryhor ul li {
+    border-radius: 5px;
+    padding: 5px; 
+}
+
+.ryhor ul li a {
+    color: black;
+}
+
+.ryhor ul li:hover {
+    background: #BA55D3 ;
+}

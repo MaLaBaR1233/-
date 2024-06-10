@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.info {
+    font-family: Noto Sans;
+    text-indent: 25px;
+}
+
+.info h2{
+    text-align: center;
+}
+
+.info h3 {
+    text-align: center;
+}
+
+.form h3 {
+    font-family: Noto Sans;
+}
+
+.form-group input,
+.form-group textarea {
+    font-family: Noto Sans;
+}

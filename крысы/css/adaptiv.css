@@ -1,0 +1,8 @@
+@media (min-widht: 760px) {
+    .navbar ul li {
+        font-size: 12px ;
+    }
+    .info {
+        text-indent: 15px;
+    }
+}

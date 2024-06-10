@@ -1,0 +1,45 @@
+
+.daria {
+    font-family: Noto Sans;
+    font-size: 17px;
+    display: flex;
+    border-radius: 15px;
+}
+
+.daria  h3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.daria h4 {
+    font-size: 17px;
+    padding: 0;
+    margin: 0;
+}
+
+.daria p {
+    text-indent: 25px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.daria ul {
+    display: flex;
+    list-style: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.daria ul li {
+    border-radius: 5px;
+    padding: 5px; 
+}
+
+.daria ul li a {
+    color: black;
+}
+
+.daria ul li:hover {
+    background: #BA55D3 ;
+}

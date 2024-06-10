@@ -1,0 +1,45 @@
+
+.evgen {
+    font-family: Noto Sans;
+    font-size: 17px;
+    display: flex;
+    border-radius: 15px;
+}
+
+.evgen  h3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+.evgen h4 {
+    font-size: 17px;
+    padding: 0;
+    margin: 0;
+}
+
+.evgen p {
+    text-indent: 25px;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.evgen ul {
+    display: flex;
+    list-style: none;
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 0;
+}
+
+.evgen ul li {
+    border-radius: 5px;
+    padding: 5px; 
+}
+
+.evgen ul li a {
+    color: black;
+}
+
+.evgen ul li:hover {
+    background: #BA55D3 ;
+}
